@@ -1,10 +1,7 @@
-[Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
 <h2> Hi, I'm Priyanka Singh! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Computer Engineering Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
+<p><em>CSBS Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College</a></br></em></p>
 
 
 [![Twitter: ShreyamMaity](https://img.shields.io/twitter/follow/ShreyamMaity?style=social)](https://twitter.com/ShreyamMaity)
