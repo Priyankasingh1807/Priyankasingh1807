@@ -61,45 +61,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-🔥 Editors: 
-Cursor                   18 hrs 15 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      18 hrs 15 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 11/12/2025 10:00:52 UTC
-<!--END_SECTION:waka-->
- 
  
 <!-- - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyamMaity&show_icons=true&theme=gotham" alt="ShreyamMaity" />  -->
@@ -118,11 +79,3 @@ Mac                      18 hrs 15 mins      ███████████�
  
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-
-
-<!---
-Hey Visitor , Thanks for downloading my readme.md , 
-If you like my work , please give a shout out 🥺👉👈
-Edit the necessary fields and enjoy!
-Happy Customisation!!!
---->
