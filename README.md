@@ -52,13 +52,7 @@
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ShreyamMaity&langs_count=10&show_icons=true&theme=gotham" alt="ShreyamMaity" /> 
 <p align=""> <img src="https://streak-stats.demolab.com?user=ShreyamMaity&theme=gotham" alt="ShreyamMaity" /></p>
 
-- <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
-<!---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
---->
- <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C484%20hrs-blue)
-
+- <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
  
@@ -68,14 +62,4 @@
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyamMaity&theme=tokyonight" alt="ShreyamMaity" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyamMaity&theme=tokyonight" alt="ShreyamMaity" />
  
- - **<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"> My Profile Trophies:**   
- <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=ShreyamMaity&theme=juicyfresh&row=2&column=3" alt=ShreyamMaity />
- 
- 
-<p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
-
-<p align="center"><a href="https://www.buymeacoffee.com/shreyam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
- 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+ - **<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25">
