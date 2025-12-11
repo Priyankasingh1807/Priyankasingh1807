@@ -4,18 +4,8 @@
 <p><em>CSBS Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College</a></br></em></p>
 
 
-[![Twitter: ShreyamMaity](https://img.shields.io/twitter/follow/ShreyamMaity?style=social)](https://twitter.com/ShreyamMaity)
-[![Linkedin: shreyammaity](https://img.shields.io/badge/-shreyammaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/shreyammaity/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shreyam.ml/)](https://shreyam.ml/)
-[![GitHub ShreyamMaity](https://img.shields.io/github/followers/ShreyamMaity?label=follow&style=social)](https://github.com/ShreyamMaity)
-![](https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.ShreyamMaity)
-
-👇 Type in your console or terminal to connect with me.
-
-```bash
-npx shreyam
-```
-**👆 This command line tool can be found at [npx shreyam](https://github.com/ShreyamMaity/npx-card)**
+[![Twitter: Priyanka Singh](https://x.com/PriyankaCodes)
+[![Linkedin: Priyanka Singh](https://github.com/Priyankasingh1807)]
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Full Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
