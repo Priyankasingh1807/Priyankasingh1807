@@ -3,12 +3,13 @@
 
 ---
 
-### 🌟 About Me
-- 💻 Full Stack Developer (MERN + Java Backend)
-- ⚡ DSA & Competitive Programming (Intermediate)
-- ☁️ Knowledge of Cloud (GCP) + DevOps Basics (Docker, CI/CD)
-- 🤖 Exploring AI/ML for security & automation
-- 🎯 Passionate about building scalable, secure applications
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Full Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (MERN) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+- 💻 Java Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJkbGo0NWhodXg3ODd4ejRvNXo0OXRxNXAwNjFjZ3VzdW9uOHNybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N9s4o2LBoFQkaMUjvb/giphy.gif" width="35">
+- ⚡ DSA & Competitive Programming (Intermediate) <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2l5anN1M2Q2NWMxdGhyNHdhZXJ4NW84dGgzNmZiYnpiMXZra3FqeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xQQP4ahKiyuxHy/giphy.gif" width="30">
+- ☁️ Knowledge of Cloud + DevOps Basics (Docker, CI/CD) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29mcmo5eWZmZDJmNWFlOTRqcnoyYmkzN3lrdGhhcjZwdnI2MXJtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="35">
+- 🤖 Exploring AI/ML for security & automation <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3BzcmFwY3JvbWF2Yzd6bmF5ZzNtNXo2NGcxMDY5djk2MTVkNXZndCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="39">
+- 🎯 Passionate about building scalable, secure applications <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29mcmo5eWZmZDJmNWFlOTRqcnoyYmkzN3lrdGhhcjZwdnI2MXJtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="35">
 
 ---
 
@@ -18,6 +19,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyankasingh1807&theme=dark&hide_border=false)<br/>
 
 </div>
+
 
 ---
 
@@ -43,9 +45,27 @@
 
 ---
 
-### 🔗 Connect With Me
+<p align="left">
+<h3 align="left">My Coding Profiles</h3>  
+
+<a href="https://www.hackerrank.com/priyanka_pic18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyanka_pic18" height="58" width="50" /></a>
+</p>
+
+---
+
+###
+
 <div align="center">
-  <a href="https://x.com/PriyankaCodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/priyanka-singh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Priyankasingh1807"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+   <a href="https://github.com/Priyankasingh1807" target="_blank">
+    <img src="https://github.com/subho004/subho004/blob/main/portfolio.png" width="52" height="40" alt="portfolio logo"  />
+  </a>
+  <a href="http://www.linkedin.com/in/subho004" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:hsubhajit454@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/subho004" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
 </div>
