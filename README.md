@@ -1,4 +1,4 @@
-<h2 align="left">Hi,   👋 I'm Priyanka Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="left">Hi,👋 I'm Priyanka Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="left">🏛️🎓 CSBS Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College</br> </p>
 
 ---
