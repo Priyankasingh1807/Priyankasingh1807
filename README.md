@@ -14,11 +14,9 @@
 ---
 
 ### 📊 GitHub Overview
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=Priyankasingh1807&theme=dark&hide_border=false" <br/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Priyankasingh1807&theme=dark&hide_border=false" />
+</p>
 
 
 ---
