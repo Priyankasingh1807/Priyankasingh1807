@@ -16,7 +16,7 @@
 ### 📊 GitHub Overview
 <div align="center">
   
-![](https://nirzak-streak-stats.vercel.app/?user=Priyankasingh1807&theme=dark&hide_border=false)<br/>
+<img src="https://streak-stats.demolab.com/?user=Priyankasingh1807&theme=dark&hide_border=false" <br/>
 
 </div>
 
