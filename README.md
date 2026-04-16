@@ -53,7 +53,7 @@
 
 ###
 
-<div align="center">
+
    <a href="https://github.com/Priyankasingh1807" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="52" height="40" alt="github logo" />
   </a>
