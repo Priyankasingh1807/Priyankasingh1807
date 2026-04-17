@@ -4,7 +4,7 @@
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Full Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (MERN) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+- 🖥 Full Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 - 💻 Java Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJkbGo0NWhodXg3ODd4ejRvNXo0OXRxNXAwNjFjZ3VzdW9uOHNybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N9s4o2LBoFQkaMUjvb/giphy.gif" width="35">
 - ⚡ DSA & Competitive Programming (Intermediate) <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2l5anN1M2Q2NWMxdGhyNHdhZXJ4NW84dGgzNmZiYnpiMXZra3FqeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xQQP4ahKiyuxHy/giphy.gif" width="30">
 - ☁️ Knowledge of Cloud + DevOps Basics (Docker, CI/CD) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29mcmo5eWZmZDJmNWFlOTRqcnoyYmkzN3lrdGhhcjZwdnI2MXJtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="35">
